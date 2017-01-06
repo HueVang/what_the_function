@@ -1,4 +1,7 @@
 # What the Function
+#Authors
+* *Hue Vang*
+* *Priscilla Gyamfi*
 
 Let's reinforce what we know about functions and objects!
 
